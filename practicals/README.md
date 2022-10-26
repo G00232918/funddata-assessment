@@ -61,3 +61,41 @@ Does it always come out as a positive whole number?
 * Sources
 * https://towardsdatascience.com/how-to-code-a-fair-coin-flip-in-python-d54312f33da9 - Fair coin toss explained with the an image.
 * https://stackoverflow.com/questions/12540661/unibiased-flip-find-the-probability-of-how-many-times-heads-and-how-many-times#:~:text=Hey%20mate!%20%3A),can%20use%20the%20python's%20random%20. - Example of code for finding the probability of a fair coin toss. 
+
+* Exercise 3
+* Plot bar charts or histograms of any three different distributions listed at the following link:
+
+https://numpy.org/doc/stable/reference/random/generator.html#distributions
+
+* Uniform distribution
+* This distribution is continous distribution which means the values are taken from a specified range. A real life example may be playing darts, you can score from 0-60. It is not gauranteed what score you will get but the range is set.
+* Importing numpy and matplotlib to show the histogram.
+* Firtly set the range using uniform method then plot the histogram as per requirements. 
+
+* Sources 
+* https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.uniform.html
+* https://www.ucd.ie/msc/t4media/Uniform%20Distribution.pdf - Reviewing the math approach with the example about the elevator where this distribution has a set range.
+
+
+* Dirichlet distribution
+* This distribution is used in probability when you have more than 2 options.
+* Firstly the variable and values need to be set.
+* Tranpose the row elements int column elements.
+* Then the sets are code.
+
+* Sources
+* https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.dirichlet.html
+* https://www.healthline.com/health/how-many-hairs-on-a-human-head - Setting the range, 100000 was timing out so I had to set to a smaller range for the purpose of the exercise.
+* https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.dirichlet.html
+
+
+* Poisson distribution
+* This distribution estimates how many times an occurs in a specified time. For example, how many times a person eats in the day.
+* Get the random range.
+* Use the Posssion method
+* Plot the histogram.
+
+* Sources
+* https://www.w3schools.com/python/numpy/numpy_random_poisson.asp - Example of the Poisson Distribution with the elements explained.
+* https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.poisson.html 
+
