@@ -18,3 +18,12 @@ Sources
 * https://en.wikipedia.org/wiki/Standard_deviation
 * https://www.w3schools.com/python/ref_stat_mean.asp - How to get the mean with python.
 * https://www.w3schools.com/python/python_ml_standard_deviation.asp
+
+* Example of Normal Distribution over a histogram
+* Code is in the noteboko along with comments to describe the process.
+
+* Sources 
+* https://www.geeksforgeeks.org/matplotlib-pyplot-xlim-in-python/ - To understand xlim function as the range for the x-axis with xlim and xmax.
+* https://realpython.com/python-kwargs-and-args/ - Explaining that kwargs is where you pass a variable into a function.
+* https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/ - Example code for the histogram.
+
