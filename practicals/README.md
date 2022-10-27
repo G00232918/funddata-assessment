@@ -67,16 +67,6 @@ Does it always come out as a positive whole number?
 
 https://numpy.org/doc/stable/reference/random/generator.html#distributions
 
-* Uniform distribution
-* This distribution is continous distribution which means the values are taken from a specified range. A real life example may be playing darts, you can score from 0-60. It is not gauranteed what score you will get but the range is set.
-* Importing numpy and matplotlib to show the histogram.
-* Firtly set the range using uniform method then plot the histogram as per requirements. 
-
-* Sources 
-* https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.uniform.html
-* https://www.ucd.ie/msc/t4media/Uniform%20Distribution.pdf - Reviewing the math approach with the example about the elevator where this distribution has a set range.
-
-
 * Dirichlet distribution
 * This distribution is used in probability when you have more than 2 options.
 * Firstly the variable and values need to be set.
@@ -99,3 +89,8 @@ https://numpy.org/doc/stable/reference/random/generator.html#distributions
 * https://www.w3schools.com/python/numpy/numpy_random_poisson.asp - Example of the Poisson Distribution with the elements explained.
 * https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.poisson.html 
 
+* Exponential Distribution
+This distribution is a follow from Poisson, the difference being this is the probability distribution of the time between events in a Poisson point process.
+
+* Sources
+* https://www.alphacodingskills.com/numpy/numpy-exponential-distribution.php - Code example and explanation.
