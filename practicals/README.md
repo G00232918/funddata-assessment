@@ -60,7 +60,7 @@ Does it always come out as a positive whole number?
 
 * Sources
 * https://towardsdatascience.com/how-to-code-a-fair-coin-flip-in-python-d54312f33da9 - Fair coin toss explained with the an image.
-* https://stackoverflow.com/questions/12540661/unibiased-flip-find-the-probability-of-how-many-times-heads-and-how-many-times#:~:text=Hey%20mate!%20%3A),can%20use%20the%20python's%20random%20. - Example of code for finding the probability of a fair coin toss. 
+* Lecture notes - https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/01-information.ipynb
 
 * Exercise 3
 * Plot bar charts or histograms of any three different distributions listed at the following link:
