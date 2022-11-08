@@ -94,3 +94,15 @@ This distribution is a follow from Poisson, the difference being this is the pro
 
 * Sources
 * https://www.alphacodingskills.com/numpy/numpy-exponential-distribution.php - Code example and explanation.
+
+# 03 - Bias
+* Reading 
+* Judgment under Uncertainty: Heuristics and Biases;
+Amos Tversky and Daniel Kahneman; Science, New Series, Vol. 185, No. 4157. (Sep. 27, 1974), pp. 1124-1131. - From the paper, I believe the real-life example that this theory relates to the most is placing a bet. It references the gambler's fallacy where the bettor is betting on red or black. When red comes up they think black will probably come up next. It may happen but then again it may take a few more turns so inevitably the results become more diluted. There is different examples given throughout the paper, one in particular that shows how people think is with the marbles.
+
+I'll go back to the bettor, you have a set of data there where you can check form and frequencies of when team or horse won. From this you can try to predict based on similar scenarios where a team or horse won. Then you introduce the anchoring where the bettor deviates towards a selection based on a previous experience. This can cloud your judgement if you have a history or affinity to the selection for example, you have backed horses from the same yard and they won. 
+
+* https://www.mygreatlearning.com/blog/what-is-regression/ - Understand what is meant by regression in the paper. It is how to understand how variables can be important to the relationship where dependent or independent. 
+
+* The Framing of Decisions and the Psychology of Choice;
+Amos Tversky and Daniel Kahneman; Science, Vol. 211, 30 January 1981. - This paper is mostly related to person being subjected to making a decision which is risk averse or risk taking. You can see that people are more risk averse for making decision that impact human life and there is more chance of risk taking when it comes to money.
