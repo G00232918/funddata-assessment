@@ -5,7 +5,7 @@
 * Module -Fundamentals of Data Analysis
 
 
-# Introduction
+### Introduction
 
 - A brief summary of what the Normal Distribution is.
 - Explanation of the factors that make up the Normal Distribution with examples.
@@ -15,13 +15,21 @@
 - Example of Normal Distribution with a real life example. This is too show clearly have the mean can change the outlook.
 - Code to show the real life example. 
 
-# Sources
+### Sources
 - https://www.scribbr.com/statistics/normal-distribution/ - Review examples of real life examples for Normal Distribution. 
 - https://en.wikipedia.org/wiki/Standard_deviation
 - https://www.w3schools.com/python/ref_stat_mean.asp - How to get the mean with python.
 - https://www.w3schools.com/python/python_ml_standard_deviation.asp
 - https://www.statology.org/plot-normal-distribution-python/ - Example 2: Plot Multiple Normal Distributions. This was used as the reference for the Student Marks example.
 
+### Real life example
+
+- A introduction as to how Normal Distribution is used in everyday life, I have given some background for the code to be used for students marks, where the standard deviation is the same but the mean changes and it displays how the Normal Distribution changes depending on the mean set.
+- The next example shows how the Normal Distribution changes when there is different standard deviations and means for each plot.
+
+### Sources
+- https://www.statology.org/plot-normal-distribution-python/ - Reference for code where there is different means.
+- https://vitalflux.com/normal-distribution-explained-python-examples/ - Reference for code with different means and standard deviations.
 
 
 # Probability Density Function
