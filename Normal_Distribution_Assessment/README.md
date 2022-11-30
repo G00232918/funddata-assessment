@@ -32,16 +32,16 @@
 - https://vitalflux.com/normal-distribution-explained-python-examples/ - Reference for code with different means and standard deviations.
 
 
-# Probability Density Function
-# Sources
+### Probability Density Function
+### Sources
 - https://www.investopedia.com/terms/p/pdf.asp - Explanation of PDF, where PDF is in the curve and you can see the patterns of the random variable.
 - https://www.askpython.com/python/examples/density-plots-in-python - Example of code I based the example in the notebook on.
 - https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/ - To understand the seaborn kdeplot.
 
-# Example of Normal Distribution over a histogram
+### Example of Normal Distribution over a histogram
 - Code is in the noteboko along with comments to describe the process.
 
-# Sources 
+### Sources 
 - https://www.geeksforgeeks.org/matplotlib-pyplot-xlim-in-python/ - To understand xlim function as the range for the x-axis with xlim and xmax.
 - https://realpython.com/python-kwargs-and-args/ - Explaining that kwargs is where you pass a variable into a function.
 - https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/ - Example code for the histogram.
