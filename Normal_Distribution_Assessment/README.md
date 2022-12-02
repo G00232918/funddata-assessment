@@ -16,11 +16,15 @@
 - Code to show the real life example. 
 
 ### Sources
+- https://www.simplypsychology.org/normal-distribution.html#:~:text=The%20normal%20distribution%20is%20a,the%20curve%20sums%20to%20one. - Reference in the introduction to Gaussian.
 - https://www.scribbr.com/statistics/normal-distribution/ - Review examples of real life examples for Normal Distribution. 
 - https://en.wikipedia.org/wiki/Standard_deviation
 - https://www.w3schools.com/python/ref_stat_mean.asp - How to get the mean with python.
 - https://www.w3schools.com/python/python_ml_standard_deviation.asp
 - https://www.statology.org/plot-normal-distribution-python/ - Example 2: Plot Multiple Normal Distributions. This was used as the reference for the Student Marks example.
+
+### Standard Normal Distribution
+- https://vitalflux.com/normal-distribution-explained-python-examples/ - Example code.
 
 ### Real life example
 
