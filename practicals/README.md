@@ -140,3 +140,8 @@ Amos Tversky and Daniel Kahneman; Science, Vol. 211, 30 January 1981. - This pap
 - https://numpy.org/doc/stable/reference/generated/numpy.delete.html - Remove text column
 - https://datascienceparichay.com/article/numpy-get-the-number-of-rows/ - check how many rows
 
+# 05 Cleansing
+
+### Exercise 1
+- https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings. - Example code
+- https://realpython.com/regex-python/ - Get understanding of the different metofd used.

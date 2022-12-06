@@ -2,8 +2,14 @@
 * Normal Distribution Notebook
 * Author - James Connolly
 * Student_Number - G00232918
-* Module -Fundamentals of Data Analysis
+* Module -Fundamentals of Data Anal
 
+# Problem Statement
+### Normal Distribution Notebook (40%):
+- Create a notebook about the normal distribution.
+- Define and explain the main concepts.
+- Pitch the notebook at your classmates.
+- Use visuals like plots to explain concepts.
 
 ### Introduction
 
@@ -24,6 +30,8 @@
 - https://www.statology.org/plot-normal-distribution-python/ - Example 2: Plot Multiple Normal Distributions. This was used as the reference for the Student Marks example.
 
 ### Standard Normal Distribution
+
+### Source -
 - https://vitalflux.com/normal-distribution-explained-python-examples/ - Example code.
 
 ### Real life example
@@ -41,6 +49,7 @@
 - https://www.investopedia.com/terms/p/pdf.asp - Explanation of PDF, where PDF is in the curve and you can see the patterns of the random variable.
 - https://www.askpython.com/python/examples/density-plots-in-python - Example of code I based the example in the notebook on.
 - https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/ - To understand the seaborn kdeplot.
+- https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions - Reviewed for more information.
 
 ### Example of Normal Distribution over a histogram
 - Code is in the noteboko along with comments to describe the process.
