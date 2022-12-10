@@ -17,6 +17,7 @@
 - Explanation of the factors that make up the Normal Distribution with examples.
 - Code example for the mean.
 - Code example for the standard deviation.
+- Code example for mode.
 - Summary of the results.
 - Example of Normal Distribution with a real life example. This is too show clearly have the mean can change the outlook.
 - Code to show the real life example. 
@@ -26,6 +27,7 @@
 - https://www.scribbr.com/statistics/normal-distribution/ - Review examples of real life examples for Normal Distribution. 
 - https://en.wikipedia.org/wiki/Standard_deviation
 - https://www.w3schools.com/python/ref_stat_mean.asp - How to get the mean with python.
+- https://www.geeksforgeeks.org/python-statistics-mode-function/ - Mode example code.
 - https://www.w3schools.com/python/python_ml_standard_deviation.asp
 - https://www.statology.org/plot-normal-distribution-python/ - Example 2: Plot Multiple Normal Distributions. This was used as the reference for the Student Marks example.
 
@@ -47,6 +49,7 @@
 ### Probability Density Function
 ### Sources
 - https://www.investopedia.com/terms/p/pdf.asp - Explanation of PDF, where PDF is in the curve and you can see the patterns of the random variable.
+- https://www.simplilearn.com/tutorials/statistics-tutorial/probability-density-function - Explanation of the variables. 
 - https://www.askpython.com/python/examples/density-plots-in-python - Example of code I based the example in the notebook on.
 - https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/ - To understand the seaborn kdeplot.
 - https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions - Reviewed for more information.
