@@ -92,7 +92,7 @@ https://numpy.org/doc/stable/reference/random/generator.html#distributions
 #### Exponential Distribution
 This distribution is a follow from Poisson, the difference being this is the probability distribution of the time between events in a Poisson point process.
 
-* Sources
+### Sources
 - https://www.alphacodingskills.com/numpy/numpy-exponential-distribution.php - Code example and explanation.
 
 # 03 - Bias
@@ -107,13 +107,13 @@ I'll go back to the bettor, you have a set of data there where you can check for
 - The Framing of Decisions and the Psychology of Choice;
 Amos Tversky and Daniel Kahneman; Science, Vol. 211, 30 January 1981. - This paper is mostly related to person being subjected to making a decision which is risk averse or risk taking. You can see that people are more risk averse for making decision that impact human life and there is more chance of risk taking when it comes to money.
 
-#### Exercise 1
+### Exercise 1
 - Explaining 3 different examples of real world examples:
 - Confirmation bias
 - Conservatism bias
 - Anchoring bias
 
-#### Exercise 2
+### Exercise 2
 - Generate two sample sizes.
 - Show the uncorrected variance for large array.
 - Show the corrected variance for large array.
@@ -127,21 +127,36 @@ Amos Tversky and Daniel Kahneman; Science, Vol. 211, 30 January 1981. - This pap
 
 # 04 Outliers
 
-#### Exercise 1 
+### Exercise 1 
 - Create box plots on a single set of axes for all five experiments in the morley data set.
 
 ### Sources
 - Lecture Notes
 
-#### Exercise 2 
+### Exercise 2 
 - Create box plots for all of the numercial variables in Fisher's Iris Data Set.
 
 ### Sources
 - https://numpy.org/doc/stable/reference/generated/numpy.delete.html - Remove text column
 - https://datascienceparichay.com/article/numpy-get-the-number-of-rows/ - check how many rows
 
+### Exercise 3 
+
+### Sources
+- https://scriptverse.academy/tutorials/python-matplotlib-plot-straight-line.html#:~:text=The%20equation%20y%3Dmx,b%20in%20Python%20with%20Matplotlib. - Understanding m and c, when fitting the line.
+
 # 05 Cleansing
 
 ### Exercise 1
+- Write a Python function to remove all non-alphanumeric characters from a string.
+
+### Sources
 - https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings. - Example code
-- https://realpython.com/regex-python/ - Get understanding of the different metofd used.
+- https://realpython.com/regex-python/ - Get understanding of the different methods used.
+
+### Exercise 2
+- Adapt the above code to capitalise the first letter of the iris species, using regular expressions.
+
+
+
+
