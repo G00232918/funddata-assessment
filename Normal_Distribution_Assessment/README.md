@@ -54,6 +54,11 @@
 - https://www.geeksforgeeks.org/seaborn-kdeplot-a-comprehensive-guide/ - To understand the seaborn kdeplot.
 - https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions - Reviewed for more information.
 
+### 5. Empirical Rule
+
+### Sources
+- https://www.investopedia.com/terms/n/normaldistribution.asp - Empircal Rule explained. 
+
 ### Example of Normal Distribution over a histogram
 - Code is in the noteboko along with comments to describe the process.
 
