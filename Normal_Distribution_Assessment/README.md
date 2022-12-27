@@ -55,15 +55,34 @@
 - https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions - Reviewed for more information.
 
 ### 5. Empirical Rule
+- Example of Empirical Rule using Python
 
 ### Sources
 - https://www.investopedia.com/terms/n/normaldistribution.asp - Empircal Rule explained. 
+- https://www.geeksforgeeks.org/python-68-95-99-7-rule-in-statistics/  - Reference code
 
-### Example of Normal Distribution over a histogram
-- Code is in the noteboko along with comments to describe the process.
+### 6. How to test that your data is normally distributed
+- Intriduction the mehtods that can be used to test.
+
+### 6.1 Histogram
+
+### 6.2 QQ plot
+### Sources
+- https://www.ucd.ie/ecomodel/Resources/QQplots_WebVersion.html - Characteristics of QQ plot
+- https://www.statology.org/q-q-plot-python/ - Code reference 
+
+### 6.3 Statisical Methods
+### Sources
+- https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/ - Definition of the Shapiro-Wilk test
 
 ### Sources 
 - https://www.geeksforgeeks.org/matplotlib-pyplot-xlim-in-python/ - To understand xlim function as the range for the x-axis with xlim and xmax.
 - https://realpython.com/python-kwargs-and-args/ - Explaining that kwargs is where you pass a variable into a function.
 - https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/ - Example code for the histogram.
 
+#### Statiscal Methods
+### Sources
+- https://www.geeksforgeeks.org/how-to-perform-a-shapiro-wilk-test-in-python/ - Reference code
+
+### Example of Normal Distribution over a histogram
+- Code is in the noteboko along with comments to describe the process.
