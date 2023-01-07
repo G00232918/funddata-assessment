@@ -9,12 +9,12 @@
 - Firstly urllib.request is imported to be able to handle internet HTTP requests. For this example Alice in Wonderland was used. With the book defined as an element, the text is in then decoded for the purpose of the program.
 - The text is then set to all lower case so the code and can more usuable for the programmer. Anything that is not a letter or space is then removed. 
 - To get random charcaters random is imported.
-* The book is then set to a whole string to be weighted. To get an accurate repesentation of average, weight is used. More often, if you use just the average you can get biased results.
+- The book is then set to a whole string to be weighted. To get an accurate repesentation of average, weight is used. More often, if you use just the average you can get biased results.
 - Generate a string using the weights with the constraint of weights, this will lead to less suprises according Shannon.
 - Once the string is generated, you then get how many times letters follow each other. This is known as model in relation to machine learning. 
 - Set the element to get the "e" as twos, then the range is set. The next element is to get the previous character as the last character. Randomly pick the next character from the weights. The character is then appended to the twos element. 
 
-### Exercise 1 - Adapt the code from the lecture notes to generate a 1000 character long string with weights based on the previous two characters.
+## Exercise 1 - Adapt the code from the lecture notes to generate a 1000 character long string with weights based on the previous two characters.
 - Set the parameters for the 2 characters.
 - Set the range for a 1000 so the string would meet requirements.
 - In the next elements they are to set where the character is pulled from in the dataset.
@@ -29,7 +29,7 @@
 - https://learn.microsoft.com/en-us/windows/ai/windows-ml/what-is-a-machine-learning-model - A model is to review certain patterns in set of data. It is a repeated decision or act that will show consistent results.
 - https://stackoverflow.com/questions/45713887/add-values-from-two-dictionaries - Adding values for 2 dictionaries reference.
 
-### Exercise 2 - Explain why the log of zero is undefined.
+## Exercise 2 - Explain why the log of zero is undefined.
 Explanatation is in the notebook.
 
 ### Sources
@@ -38,7 +38,7 @@ Explanatation is in the notebook.
 
 
 # 02 - Randomness
-- Exercise 1 - It is somewhat interesting that (5 * 4 * 3 * 2 * 1) perfectly divides (10 * 9 * 8 * 7 * 6) - there's no remainder.
+## Exercise 1 - It is somewhat interesting that (5 * 4 * 3 * 2 * 1) perfectly divides (10 * 9 * 8 * 7 * 6) - there's no remainder.
 If we only wanted exactly four heads as opposed to five, the equivalent calculation would be (10 * 9 * 8 * 7) / (4 * 3 * 2 * 1).
 Does that evenly divide too? What is the formula in general?
 Does it always come out as a positive whole number?
@@ -53,7 +53,7 @@ Does it always come out as a positive whole number?
 - https://corporatefinanceinstitute.com/resources/knowledge/other/binomial-distribution/ - Review of a definition of Binomial Distribution.
 - https://numpy.org/doc/stable/reference/random/generated/numpy.random.negative_binomial.html - Negative Binomial explained with examples.
 
-### Exercise 2 
+## Exercise 2 
 - Explain why there are the same number of ways to get 4 tails as there is to get 4 heads.
 - Brief explanation as to why you have the same chance of getting 4 heads or 4 tails.
 - Coding example to demonstrate.
@@ -62,7 +62,7 @@ Does it always come out as a positive whole number?
 - https://towardsdatascience.com/how-to-code-a-fair-coin-flip-in-python-d54312f33da9 - Fair coin toss explained with the an image.
 - Lecture notes - https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/01-information.ipynb
 
-### Exercise 3
+## Exercise 3
 - Plot bar charts or histograms of any three different distributions listed at the following link:
 
 https://numpy.org/doc/stable/reference/random/generator.html#distributions
@@ -79,7 +79,7 @@ https://numpy.org/doc/stable/reference/random/generator.html#distributions
 - https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.dirichlet.html
 
 
-#### Poisson distribution
+### Poisson distribution
 - This distribution estimates how many times an occurs in a specified time. For example, how many times a person eats in the day.
 - Get the random range.
 - Use the Posssion method.
@@ -107,13 +107,13 @@ I'll go back to the bettor, you have a set of data there where you can check for
 - The Framing of Decisions and the Psychology of Choice;
 Amos Tversky and Daniel Kahneman; Science, Vol. 211, 30 January 1981. - This paper is mostly related to person being subjected to making a decision which is risk averse or risk taking. You can see that people are more risk averse for making decision that impact human life and there is more chance of risk taking when it comes to money.
 
-### Exercise 1
+## Exercise 1
 - Explaining 3 different examples of real world examples:
 - Confirmation bias
 - Conservatism bias
 - Anchoring bias
 
-### Exercise 2
+## Exercise 2
 - Generate two sample sizes.
 - Show the uncorrected variance for large array.
 - Show the corrected variance for large array.
@@ -127,35 +127,38 @@ Amos Tversky and Daniel Kahneman; Science, Vol. 211, 30 January 1981. - This pap
 
 # 04 Outliers
 
-### Exercise 1 
+## Exercise 1 
 - Create box plots on a single set of axes for all five experiments in the morley data set.
 
 ### Sources
 - Lecture Notes
 
-### Exercise 2 
+## Exercise 2 
 - Create box plots for all of the numercial variables in Fisher's Iris Data Set.
 
 ### Sources
 - https://numpy.org/doc/stable/reference/generated/numpy.delete.html - Remove text column
 - https://datascienceparichay.com/article/numpy-get-the-number-of-rows/ - check how many rows
 
-### Exercise 3 
+## Exercise 3 
 
 ### Sources
 - https://scriptverse.academy/tutorials/python-matplotlib-plot-straight-line.html#:~:text=The%20equation%20y%3Dmx,b%20in%20Python%20with%20Matplotlib. - Understanding m and c, when fitting the line.
 
 # 05 Cleansing
 
-### Exercise 1
+## Exercise 1
 - Write a Python function to remove all non-alphanumeric characters from a string.
 
 ### Sources
 - https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings. - Example code
 - https://realpython.com/regex-python/ - Get understanding of the different methods used.
 
-### Exercise 2
+## Exercise 2
 - Adapt the above code to capitalise the first letter of the iris species, using regular expressions.
+
+### Sources
+- https://favtutor.com/blogs/capitalize-first-letter-python - Reference code
 
 
 
